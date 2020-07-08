@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    border-bottom: 150px !important;
+}
+.logo{
+    width: 30%;
+    background-color: #F0FFF0;
+}
+.top-section{
+    height: 512px;
+    background-color:  #F0FFF0;
+}
+.inner-top-section{
+    margin-top: 100px;
+}
+.navbar{
+    background-color: #F0FFF0 !important;
+}
+.button{
+    background-color: rgb(2, 163, 2);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 20px;
+    margin: 0px 5px;
+}
+.nav-item{
+    margin: 0px 10px;
+}
+.teacher-student{
+    width: 80%;
+}
+#ready{
+    color:#FD511A;
+}
+#learn-fun{
+    font-weight: bold;
+    font-size: 50px;
+}
+#schedule{
+    color: rgb(0, 141, 0) ;
+}
+.features{
+    margin-top: 50px;
+}
+.icon-img{
+    margin: 5px;
+    margin-top: 10px;
+    padding: 5px;
+    width: 66px;
+    height: 85px;
+}
+.content{
+    text-align: center;
+}
+.color{
+    color: dimgrey;
+}
+.cat-img{
+    padding: 15px;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card1{
+    font-weight: bold;
+}
+.foot-text img{
+    width: 15%;
+}
+.foot-text p{
+    font-size: 15px;
+}
+.card-brdr{
+    margin: 5px;
+}
+.man1{
+    margin-top: 100px;
+}
+.man{
+    width: 60%;
+}
+.man2{
+    margin-top: 50px;
+}
+.black-bg{
+    background-color: black;
+}
+.footer-color{
+    color: white;
+   
+}
+.comment{
+    padding-top: 30px;
+}
+.col-md-2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.course-heading{
+    font-weight: 900 ;
+    
+}
+footer{
+    font-size: 12px;
+    color: white;
+    text-align: center;
+}
