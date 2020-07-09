@@ -113,3 +113,7 @@ footer{
     color: white;
     text-align: center;
 }
+.name{
+    color: tomato;
+    text-decoration: underline;
+}
